@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "quantity_sold": 120,
+    "price_per_unit": 15.99
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "quantity_sold": 80,
+    "price_per_unit": 45.5
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Yoga Mat",
+    "category": "Fitness",
+    "quantity_sold": 60,
+    "price_per_unit": 20.0
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Dumbbells",
+    "category": "Fitness",
+    "quantity_sold": 40,
+    "price_per_unit": 35.0
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Notebook",
+    "category": "Stationery",
+    "quantity_sold": 150,
+    "price_per_unit": 3.0
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Ball Pen",
+    "category": "Stationery",
+    "quantity_sold": 300,
+    "price_per_unit": 1.2
+  }
+]
